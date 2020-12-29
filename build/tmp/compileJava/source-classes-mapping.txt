@@ -1,0 +1,24 @@
+me/toadless/DiscordRPC/GUI/loadFeatures.java
+ me.toadless.DiscordRPC.GUI.loadFeatures
+me/toadless/DiscordRPC/GUI/Features/smallImageKey.java
+ me.toadless.DiscordRPC.GUI.Features.smallImageKey
+me/toadless/DiscordRPC/GUI/Features/ClientId.java
+ me.toadless.DiscordRPC.GUI.Features.ClientId
+me/toadless/DiscordRPC/GUI/Features/Details.java
+ me.toadless.DiscordRPC.GUI.Features.Details
+me/toadless/DiscordRPC/GUI/Features/largeImageKey.java
+ me.toadless.DiscordRPC.GUI.Features.largeImageKey
+me/toadless/DiscordRPC/GUI/Features/State.java
+ me.toadless.DiscordRPC.GUI.Features.State
+me/toadless/DiscordRPC/GUI/Features/smallImageText.java
+ me.toadless.DiscordRPC.GUI.Features.smallImageText
+me/toadless/DiscordRPC/GUI/Features/largeImageText.java
+ me.toadless.DiscordRPC.GUI.Features.largeImageText
+me/toadless/DiscordRPC/Main.java
+ me.toadless.DiscordRPC.Main
+me/toadless/DiscordRPC/RichPresence/RichPresence.java
+ me.toadless.DiscordRPC.RichPresence.RichPresence
+me/toadless/DiscordRPC/GUI/openWindow.java
+ me.toadless.DiscordRPC.GUI.openWindow
+me/toadless/DiscordRPC/GUI/Started.java
+ me.toadless.DiscordRPC.GUI.Started

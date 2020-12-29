@@ -1,0 +1,18 @@
+plugins {
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '5.2.0'
+}
+
+mainClassName = 'me.toadless.DiscordRPC.Main'
+
+sourceCompatibility = targetCompatibility = 1.8
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'club.minnced:java-discord-rpc:2.0.2'
+}
+
+compileJava.options.encoding = 'UTF-8'
